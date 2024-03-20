@@ -5,3 +5,6 @@ __pycache__
 .gitattributes
 !*.zip
 student.ipynb
+zippedData/im.db
+student.ipynb
+student.ipynb
